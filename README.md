@@ -1,8 +1,25 @@
 # forgEtsy_FullStack
-Proxy and service oriented architecture (SOA) project that utilized micro-services to develop a modular clone of the popular e-commerce site, “Etsy” :art: :art: :art:
+Proxy and service oriented architecture (SOA) that utilizes micro-services to develop a modular clone of the popular e-commerce site, “Etsy” :art: :art: :art:
 
 <img class="gif" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;" src="https://github.com/jkeane889/forgEtsy_FullStack/blob/master/forgEtsyBuild.gif"
 />
+
+## About
+
+"forgEtsy" allows users to browse an e-commerce site populated with unique, artistic and customizable items.  This project is an experiment in using advanced deployment technologies, along with using specific front-end development techniques.
+
+## Contributors
+
+[Tye Macon](https://github.com/orgs/ForgEtsy/people/tyemacon)
+
+[Seth Lewis](https://github.com/projectLewis)
+
+[Keenan Johns](https://github.com/FluxxField)
+
+[Jonathan Keane](https://github.com/jkeane889)
+
+
+
