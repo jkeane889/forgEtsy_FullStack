@@ -32,7 +32,7 @@ forgEtsy was developed using the MERN full-stack (MongoDB, Express, ReactJS, and
 ![ReactRouter](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/react-router.svg "ReactRouter")
 ![Mongoose](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongooseLogo.png "Mongoose")
 ![Babel](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/babelJS.png "Babel")
-![Webpack](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/babelJS.png "Webpack")
+![Webpack](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/webpack.png "Webpack")
 ![MongoDB](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongoDBlogo.png "MongoDB")
 ![Ubuntu](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/UbunutuLogo.png "Ubuntu")
 ![AWS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/amazonwebServices.png "AWS")
