@@ -5,4 +5,4 @@ Proxy and service oriented architecture (SOA) project that utilized micro-servic
   margin-left: auto;
   margin-right: auto;
   width: 50%;" src="https://github.com/jkeane889/forgEtsy_FullStack/blob/master/forgEtsyBuild.gif"
->
+/>
