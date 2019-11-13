@@ -1,0 +1,88 @@
+.reviewItem {
+    margin-bottom: 8vh;
+}
+
+.review {
+    display: grid;
+    grid-auto-columns: minmax(min-content, max-content);
+    grid-auto-rows: minmax(min-content, max-content);
+}
+
+.userphoto {
+    margin-right: 3vh;
+    width: 8vh;
+    height: 8vh;
+    grid-column-start: 1;
+    grid-row: 1 / 4;
+}
+
+.userphoto img {
+    border-radius: 50%;
+    width: 100%;
+    height: auto;
+}
+
+.reviewNameDate {
+    grid-column-start: 2;
+    grid-row-start: 1;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 2fr;
+}
+
+.profilename {
+    margin-bottom: 1vh;
+    grid-column-start: 1;
+    color: black;
+}
+
+.profilename:hover {
+    color: grey ;
+}
+
+.reviewdate {
+    grid-column-start: 2;
+    margin-bottom: 1vh;
+    padding-left: 1vh;
+}
+
+.reviewstars {
+    margin-bottom: 1vh;
+    grid-column-start: 2;
+    grid-row-start: 2;
+}
+
+.reviewdescription {
+    margin-bottom: 3vh;
+    grid-column: 2 / 4;
+    grid-row-start: 3;
+}
+
+.productPictureBox {
+    grid-column: 2;
+    grid-row-start: 4;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+
+.productPicture {
+    grid-column: 1;
+    grid-row-start: 1;
+}
+
+.productDescription {
+    grid-column: 2;
+    grid-row-start: 1;
+    display: inline-block;
+    margin: auto;
+    text-align: left;
+    text-decoration: none;
+    color: black;
+    opacity: 0.7;
+}
+
+.productDescription:hover {
+    color: black;
+    opacity: 0.7;
+    text-decoration: underline;
+}
