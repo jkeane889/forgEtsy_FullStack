@@ -21,5 +21,7 @@ Proxy and service oriented architecture (SOA) that utilizes micro-services to de
 
 [Jonathan Keane](https://github.com/jkeane889)
 
+## Tech Stack
 
+forgEtsy was developed using the MERN full-stack (MongoDB, Express, ReactJS, and NodeJS), along with specific complementary npm modules such as React-Router, Babel, Webpack, Mongoose, and CSS Modules.  Some additional technologies used for deployment were Docker and Amazon's Web Services (AWS/EC2/Ubuntu).
 
