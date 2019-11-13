@@ -8,10 +8,12 @@ Proxy and service oriented architecture (SOA) that utilizes micro-services to de
 />
 
 ## About
+:page_with_curl: :page_with_curl: :page_with_curl:
 
 "forgEtsy" allows users to browse an e-commerce site populated with unique, artistic and customizable items.  This project is an experiment in using advanced deployment technologies, along with using specific front-end development techniques.
 
-## Contributors
+## Contributors 
+:muscle: :muscle: :muscle:
 
 [Tye Macon](https://github.com/orgs/ForgEtsy/people/tyemacon)
 
@@ -21,7 +23,8 @@ Proxy and service oriented architecture (SOA) that utilizes micro-services to de
 
 [Jonathan Keane](https://github.com/jkeane889)
 
-## Tech Stack
+## Tech Stack 
+:custard: :custard: :custard: 
 
 forgEtsy was developed using the MERN full-stack (MongoDB, Express, ReactJS, and NodeJS), along with specific complementary npm modules such as React-Router, Babel, Webpack, Mongoose, and CSS Modules.  Some additional technologies used for deployment were Docker and Amazon's Web Services (AWS/EC2/Ubuntu).
 
