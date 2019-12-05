@@ -28,8 +28,7 @@ forgEtsy was developed using the MERN full-stack (MongoDB, Express, ReactJS, and
 | Frontend | BackEnd | DevTools | Deployment |
 | -------- | ------- | -------- | ---------- |
 | ![ReactJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/ReactJS.png "ReactJS") | ![Mongoose](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongooseLogo.png "Mongoose") | ![ExpressJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/expressJS.png "ExpressJS") | ![AWS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/amazonwebServices.png "AWS") | 
-| ![CSSModules](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/CSSModules.png "CSSModules")
-| ![MongoDB](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongoDBlogo.png "MongoDB") | ![ReactRouter](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/react-router.svg "ReactRouter") | ![Docker](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/dockerLogo.png "Docker") 
+| ![CSSModules](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/CSSModules.png "CSSModules") | ![MongoDB](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongoDBlogo.png "MongoDB") | ![ReactRouter](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/react-router.svg "ReactRouter") | ![Docker](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/dockerLogo.png "Docker") 
 | | ![NodeJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/nodeJS.png "NodeJS") | ![Babel](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/babelJS.png "Babel") | |
 | | | ![Webpack](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/webpack.png "Webpack")
 
