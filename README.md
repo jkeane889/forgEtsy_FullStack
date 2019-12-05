@@ -25,11 +25,11 @@ Proxy and service oriented architecture (SOA) that utilizes micro-services to de
 
 forgEtsy was developed using the MERN full-stack (MongoDB, Express, ReactJS, and NodeJS), along with specific complementary npm modules such as React-Router, Babel, Webpack, Mongoose, and CSS Modules.  Some additional technologies used for deployment were Docker and Amazon's Web Services (AWS/EC2/Ubuntu).
 
-| Frontend |
-| -------- |
-| ![ReactJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/ReactJS.png "ReactJS") | 
+| Frontend | Backend |
+| -------- | ------- |
+| ![ReactJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/ReactJS.png "ReactJS") | ![Mongoose](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongooseLogo.png "Mongoose") |
+| ![CSSModules](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/CSSModules.png "CSSModules") |
 
-![CSSModules](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/CSSModules.png "CSSModules")
 ![ExpressJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/expressJS.png "ExpressJS")
 ![NodeJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/nodeJS.png "NodeJS")
 ![ReactRouter](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/react-router.svg "ReactRouter")
