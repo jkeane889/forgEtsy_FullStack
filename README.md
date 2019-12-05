@@ -25,21 +25,12 @@ Proxy and service oriented architecture (SOA) that utilizes micro-services to de
 
 forgEtsy was developed using the MERN full-stack (MongoDB, Express, ReactJS, and NodeJS), along with specific complementary npm modules such as React-Router, Babel, Webpack, Mongoose, and CSS Modules.  Some additional technologies used for deployment were Docker and Amazon's Web Services (AWS/EC2/Ubuntu).
 
-| Frontend | ![ReactJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/ReactJS.png "ReactJS") | ![CSSModules](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/CSSModules.png "CSSModules") |
-
-![Mongoose](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongooseLogo.png "Mongoose") | ![AWS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/amazonwebServices.png "AWS") |
-|  ![MongoDB](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongoDBlogo.png "MongoDB") | ![Docker](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/dockerLogo.png "Docker") |
-
-![ExpressJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/expressJS.png "ExpressJS")
-
-![NodeJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/nodeJS.png "NodeJS")
-
-![ReactRouter](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/react-router.svg "ReactRouter")
-
-![Babel](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/babelJS.png "Babel")
-
-![Webpack](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/webpack.png "Webpack")
-
-![Ubuntu](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/UbunutuLogo.png "Ubuntu")
+| Frontend | BackEnd | DevTools | Deployment |
+| -------- | ------- | -------- | ---------- |
+| ![ReactJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/ReactJS.png "ReactJS") | ![Mongoose](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongooseLogo.png "Mongoose") | ![ExpressJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/expressJS.png "ExpressJS") | ![AWS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/amazonwebServices.png "AWS") | 
+| ![CSSModules](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/CSSModules.png "CSSModules")
+| ![MongoDB](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongoDBlogo.png "MongoDB") | ![ReactRouter](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/react-router.svg "ReactRouter") | ![Docker](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/dockerLogo.png "Docker") 
+| | ![NodeJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/nodeJS.png "NodeJS") | ![Babel](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/babelJS.png "Babel") | |
+| | | ![Webpack](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/webpack.png "Webpack")
 
 
