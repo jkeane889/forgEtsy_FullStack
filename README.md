@@ -25,10 +25,10 @@ Proxy and service oriented architecture (SOA) that utilizes micro-services to de
 
 forgEtsy was developed using the MERN full-stack (MongoDB, Express, ReactJS, and NodeJS), along with specific complementary npm modules such as React-Router, Babel, Webpack, Mongoose, and CSS Modules.  Some additional technologies used for deployment were Docker and Amazon's Web Services (AWS/EC2/Ubuntu).
 
-| Frontend | Backend | Deployment |
-| -------- | ------- | ---------- |
-| ![ReactJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/ReactJS.png "ReactJS") | ![Mongoose](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongooseLogo.png "Mongoose") | ![AWS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/amazonwebServices.png "AWS") |
-| ![CSSModules](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/CSSModules.png "CSSModules") | ![MongoDB](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongoDBlogo.png "MongoDB") | ![Docker](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/dockerLogo.png "Docker") |
+| Frontend | ![ReactJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/ReactJS.png "ReactJS") | ![CSSModules](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/CSSModules.png "CSSModules") |
+
+![Mongoose](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongooseLogo.png "Mongoose") | ![AWS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/amazonwebServices.png "AWS") |
+|  ![MongoDB](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongoDBlogo.png "MongoDB") | ![Docker](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/dockerLogo.png "Docker") |
 
 ![ExpressJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/expressJS.png "ExpressJS")
 
