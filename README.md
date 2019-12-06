@@ -9,6 +9,7 @@ Proxy and service oriented architecture (SOA) that utilizes micro-services to de
   - [Transformation](#transformation)
   - [About](#about)
   - [Contributors](#contributors)
+  - [What does the app do?](#what-does-the-app-do)
   - [Technologies](#technologies)
 
 ## Transformation
@@ -32,6 +33,12 @@ Proxy and service oriented architecture (SOA) that utilizes micro-services to de
 [Keenan Johns](https://github.com/FluxxField)
 
 [Jonathan Keane](https://github.com/jkeane889)
+
+## What does the app do? :thumbsup:
+
+forgEsty was a project geared towards fullstack development in order to create a website that emulated Etsy, the popular art e-commerce site.  The app itself has been prepopulated with a variety of difference categories that a user would likely see if they visited Etsy.  For each category, the user can search for unique products that they desire.  Each product has its own details panel, along with associated reviews, randomly generated through an API call to a quote population database.  
+
+On selection, the user can inspect the product through a magnification application.  The user can also ask for Help through a modal pop-up which connects the user with an employee of the store (similar to the functionality granted on Etsy).
 
 ## Technologies :custard:
 
