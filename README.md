@@ -1,4 +1,4 @@
-# forgEtsy_FullStack :art:
+# forgEtsy :art:
 Proxy and service oriented architecture (SOA) that utilizes micro-services to develop a modular clone of the popular e-commerce site, “Etsy” 
 
 ![forgEtsy](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/ForgEtsy_FinalProduct.png)
@@ -11,6 +11,7 @@ Proxy and service oriented architecture (SOA) that utilizes micro-services to de
   - [Contributors](#contributors)
   - [What does the app do?](#what-does-the-app-do)
   - [Technologies](#technologies)
+  - [Future Project Developments](#future-project-developments)
 
 ## Transformation
 
