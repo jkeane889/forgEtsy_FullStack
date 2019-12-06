@@ -51,3 +51,18 @@ forgEtsy was developed using the MERN full-stack (MongoDB, Express, ReactJS, and
 | ![CSSModules](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/CSSModules.png "CSSModules") | ![MongoDB](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/mongoDBlogo.png "MongoDB") | ![ReactRouter](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/reactRouter.png) | ![Docker](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/dockerLogo.png "Docker") 
 | | ![NodeJS](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/nodeJS.png "NodeJS") | ![Babel](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/babelJS.png "Babel") | |
 | | | ![Webpack](https://github.com/jkeane889/forgEtsy_FullStack/blob/master/technologies/webpack.png "Webpack")
+
+## Future Project Developments :star:
+
+Given the limited scope that was granted to our team in this two week period, we would have liked to implement the following future features:
+
+* Shopping cart checkout icon
+* User cookies for returning customer
+* Payment processing
+* Expanded category selections
+* Update frontend framework (Material UI)
+* Further modal tutorial functionality
+
+## Thank you! :pray:
+
+Thank you to the Hack Reactor squad! Greatest thanks to my amazing teammates who taught me so much in this process! 
