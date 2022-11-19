@@ -43,6 +43,6 @@
     "path": "^0.12.7",
     "style-loader": "^1.0.0",
     "webpack": "^4.32.2",
-    "webpack-cli": "^3.3.5"
+    "webpack-cli": "^3.3.12"
   }
 }
